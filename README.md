@@ -49,7 +49,7 @@
 ### Contact with me:
 
 <ul>
-  <li>:envelope: Email: impuls_64@mail.ru</li>
+  <li>:envelope: impuls_64@mail.ru</li>
   <li>Telegram: impuls_64</li>
 </ul>
 
