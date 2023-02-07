@@ -50,6 +50,6 @@
 
 <ul>
   <li>:envelope: impuls_64@mail.ru</li>
-  <li>Telegram: impuls_64</li>
+  <li><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/256/external-telegram-is-a-cloud-based-instant-messaging-and-voice-over-ip-service-logo-shadow-tal-revivo.png" width="20" height="20"/> impuls_64</li>
 </ul>
 
