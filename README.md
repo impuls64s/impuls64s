@@ -9,7 +9,7 @@
   <li>:toolbox: backend developer</li>
   <li>:snake: love Python and :smiley_cat:</li>
   <li>:earth_asia: live in Turkey</li>
-  <li>:computer: interested in website development</li>
+  <li>:computer: interested in website development and computer vision</li>
   <li>:crossed_swords: lord of the rings fan</li>
 </ul>
 
